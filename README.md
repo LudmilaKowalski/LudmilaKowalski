@@ -7,3 +7,4 @@
 - :penguin: Fun fact: I like pengouins
 - :computer: Looking for : I'm currently looking for an intership 
 
+[![Ludmila GitHub stats](https://github-readme-stats.vercel.app/api?username=LudmilaKowalski&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/LudmilaKowalski/github-readme-stats)
