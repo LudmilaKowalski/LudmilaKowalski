@@ -9,4 +9,4 @@
 
 [![Ludmila GitHub stats](https://github-readme-stats.vercel.app/api?username=LudmilaKowalski&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/LudmilaKowalski/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaKowalski&layout=compact)](https://github.com/LudmilaKowalski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaKowalski&layout=compact&theme=colbat)](https://github.com/LudmilaKowalski/github-readme-stats)
